@@ -1,2 +1,3 @@
 hellow Git world
 zhuijia
+add info
