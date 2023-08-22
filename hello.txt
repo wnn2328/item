@@ -1,5 +1,5 @@
 hellow Git world
-2 row info -dev
+two row info -dev
 add info
 4 row info -master
 5 row info
