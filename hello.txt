@@ -5,3 +5,4 @@ add info
 5 row info
 6 row info
 
+insert cloneStore 7 row info
